@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/PermissionUtil.iml" filepath="$PROJECT_DIR$/.idea/modules/PermissionUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PermissionUtil.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PermissionUtil.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/PermissionUtil.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/PermissionUtil.library.iml" />
     </modules>
   </component>
 </project>
